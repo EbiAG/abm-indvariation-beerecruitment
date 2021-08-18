@@ -26,3 +26,6 @@ To rerun the simulations and the analysis, follow the process below:
    <li> Copy the CSVs output by NETLOGO into the same folder with python code and run the code to process the CSVs for analysis. Ensure that the CSVs are named as in the ABM_NETLOGO_Output folder or alternatively change the python code to match the names of the files
    <li> Copy the processed CSVs to the Model_Output_Processed folder and the run the R codes in the 'Analysis' folder linked to the particular experiment to perform the statistical analysis
 </ol>
+
+
+Zenodo Link of this repository: https://doi.org/10.5281/zenodo.5217629
